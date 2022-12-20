@@ -47,4 +47,4 @@ document
     }
 });
 
-weather.fetchWeather("Sydney");
+weather.fetchWeather("New York");
